@@ -1,3 +1,5 @@
+//study truthy and falsey
+
 let var1 = '';
 
 if (var1) {
